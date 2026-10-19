@@ -1,0 +1,9 @@
+cluster,size,top_genres,avg_rating,avg_year,avg_ratings_per_movie
+0,5281,"Drama (56%), Comedy (54%), Romance (25%)",3.3,1993,8.2
+1,1689,"Thriller (87%), Drama (50%), Crime (40%)",3.147,1997,11.6
+2,429,"Documentary (100%), Comedy (9%), Drama (5%)",3.782,2002,2.8
+3,85,"Film-Noir (100%), Crime (59%), Drama (58%)",3.67,1965,10.2
+4,695,"Children (89%), Comedy (55%), Animation (50%)",3.147,1994,13.0
+5,158,"IMAX (100%), Action (59%), Adventure (51%)",3.312,2009,26.2
+6,164,"Western (100%), Drama (35%), Action (24%)",3.387,1980,11.7
+7,1210,"Sci-Fi (67%), Action (60%), Adventure (49%)",3.087,1995,17.1
